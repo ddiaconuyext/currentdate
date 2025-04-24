@@ -1,5 +1,5 @@
 {
-  "$schema": "https://schema.yext.com/config/app/app-schema.json",
+  "$schema": "https://schema.yext.com/v1/config/app/app-schema.json",
   "appId": "c_currentDate-app",
   "name": "Set Current Date App",
   "functions": [
