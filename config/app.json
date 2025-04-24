@@ -1,0 +1,11 @@
+{
+  "$schema": "https://schema.yext.com/config/app/app-schema.json",
+  "appId": "c_currentDate-app",
+  "name": "Set Current Date App",
+  "functions": [
+    {
+      "name": "Set Current Date",
+      "file": "functions/setCurrentDate.js"
+    }
+  ]
+}
